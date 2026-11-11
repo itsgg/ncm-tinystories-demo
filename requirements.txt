@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+antlr4-python3-runtime==4.9.3
+filelock==4.2.4
+fsspec==2026.9.0
+hydra-core==1.3.8
+jinja2==3.1.6
+markupsafe==3.0.3
+mpmath==1.3.0
+networkx==3.7
+numpy==2.5.4
+omegaconf==2.3.1
+packaging==26.3
+pyyaml==6.0.3
+regex==2026.11.9
+setuptools==78.1.0
+sympy==1.14.0
+torch==2.15.0+cpu
+typing-extensions==4.16.0
